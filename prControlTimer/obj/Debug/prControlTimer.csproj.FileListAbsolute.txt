@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prControlTimer\bin\Debug\prControlTimer.exe.config
+C:\Users\User\source\repos\prControlTimer\bin\Debug\prControlTimer.exe
+C:\Users\User\source\repos\prControlTimer\bin\Debug\prControlTimer.pdb
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.Form1.resources
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.Properties.Resources.resources
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.exe
+C:\Users\User\source\repos\prControlTimer\obj\Debug\prControlTimer.pdb
